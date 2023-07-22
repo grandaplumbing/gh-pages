@@ -253,7 +253,7 @@ footer {
 }
 
 /* Responsive */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1000px) {
   .col-quarter{
       width: 50%;
       text-align: center !important;
